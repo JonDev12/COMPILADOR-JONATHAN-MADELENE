@@ -484,5 +484,33 @@ namespace COMPILADOR_JONATHAN_MADELENE
             }
         }
 
+        /*
+         Entrada valida de comparacionn de decimales
+         DECIMAL a = 10.5;
+         DECIMAL b = 20.7;
+         IF a < b {
+            PRINT "a es menor que b";
+         } ELSE {
+             PRINT "a no es menor que b";
+         }
+
+        Entrada valida de comparacion de enteros
+        INTEGER a = 10;
+        INTEGER b = 20;
+        IF a < b {
+            PRINT "a es menor que b";
+        } ELSE {
+            PRINT "a no es menor que b";
+        }
+
+        Entrada valida de comparacion de flotantes
+        FLOAT a = 10.5;
+        FLOAT b = 20.7;
+        IF a < b {
+            PRINT "a es menor que b";
+        } ELSE {
+        PRINT "a no es menor que b";
+        }
+         */
     }
 }
